@@ -1,4 +1,4 @@
 # datascience-tests
 
-Linear Regression
-Logistic Regression
+### Linear Regression
+### Logistic Regression
